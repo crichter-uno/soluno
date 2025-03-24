@@ -1,0 +1,6 @@
+@test.uno_HostAddress = http://localhost:5167
+
+GET {{test.uno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
